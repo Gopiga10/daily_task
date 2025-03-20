@@ -1,1 +1,3 @@
-"Dev branch update - Conflict test" 
+
+"Main branch update - Conflict test" 
+>>>>>>> main
